@@ -39,6 +39,11 @@
       "templateId": "sap.ui.ui5-template-plugin.2masterdetail",
       "templateVersion": "1.52.7",
       "dateTimeStamp": "Sat, 19 Oct 2019 08:38:41 GMT"
+    },
+    {
+      "templateId": "ui5template.basicSAPUI5ApplicationComponent",
+      "templateVersion": "1.4.0",
+      "dateTimeStamp": "Tue, 18 May 2021 10:23:54 GMT"
     }
   ],
   "translation": {
