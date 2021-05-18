@@ -3,7 +3,9 @@
 	<App>
 		<pages>
 			<Page title="Title">
-				<content></content>
+				<content>
+				<Button text="Sss"></Button>	
+				</content>
 			</Page>
 		</pages>
 	</App>
