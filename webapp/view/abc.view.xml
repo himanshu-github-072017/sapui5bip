@@ -5,6 +5,7 @@
 			<Page title="Title">
 				<content>
 				<Button text="Sss"></Button>	
+				<Button text="Ssshh"></Button>
 				</content>
 			</Page>
 		</pages>
